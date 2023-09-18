@@ -1,0 +1,8 @@
+{
+  "label": "RAG",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Learn about Retrieval, Augmentation, and Generation techniques"
+  }
+}
